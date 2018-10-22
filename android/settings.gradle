@@ -1,0 +1,3 @@
+rootProject.name = 'FlipshopeApp2'
+
+include ':app'
